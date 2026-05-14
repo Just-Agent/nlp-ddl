@@ -1,23 +1,5 @@
 [
   {
-    "id": "nlp-ddl-1",
-    "title": "ACL 2027 ARR Commitment",
-    "deadline": "2026-10-15T23:59:59",
-    "dateRange": "2026-10-15",
-    "location": "Online",
-    "isOnline": true,
-    "tags": [
-      "ACL",
-      "ARR"
-    ],
-    "url": "https://www.aclweb.org",
-    "status": "upcoming",
-    "stage": "ARR commit",
-    "source": "AllConfs-style seed",
-    "type": "conference",
-    "description": "ACL 系列主会 demo。"
-  },
-  {
     "id": "nlp-ddl-2",
     "title": "EMNLP 2026 Full Paper",
     "deadline": "2026-06-16T23:59:59",
@@ -34,6 +16,24 @@
     "source": "Demo seed",
     "type": "conference",
     "description": "EMNLP 主会全文提交 demo。"
+  },
+  {
+    "id": "nlp-ddl-1",
+    "title": "ACL 2027 ARR Commitment",
+    "deadline": "2026-10-15T23:59:59",
+    "dateRange": "2026-10-15",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "ACL",
+      "ARR"
+    ],
+    "url": "https://www.aclweb.org",
+    "status": "upcoming",
+    "stage": "ARR commit",
+    "source": "AllConfs-style seed",
+    "type": "conference",
+    "description": "ACL 系列主会 demo。"
   },
   {
     "id": "nlp-ddl-3",
