@@ -1,0 +1,74 @@
+[
+  {
+    "id": "nlp-ddl-1",
+    "title": "ACL 2027 ARR Commitment",
+    "deadline": "2026-10-15T23:59:59",
+    "dateRange": "2026-10-15",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "ACL",
+      "ARR"
+    ],
+    "url": "https://www.aclweb.org",
+    "status": "upcoming",
+    "stage": "ARR commit",
+    "source": "AllConfs-style seed",
+    "type": "conference",
+    "description": "ACL 系列主会 demo。"
+  },
+  {
+    "id": "nlp-ddl-2",
+    "title": "EMNLP 2026 Full Paper",
+    "deadline": "2026-06-16T23:59:59",
+    "dateRange": "2026-06-16",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "EMNLP",
+      "NLP"
+    ],
+    "url": "https://2026.emnlp.org",
+    "status": "upcoming",
+    "stage": "Paper",
+    "source": "Demo seed",
+    "type": "conference",
+    "description": "EMNLP 主会全文提交 demo。"
+  },
+  {
+    "id": "nlp-ddl-3",
+    "title": "CoNLL Shared Task 2027",
+    "deadline": "2027-01-20T23:59:59",
+    "dateRange": "2027-01-20",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "CoNLL",
+      "Shared Task"
+    ],
+    "url": "https://www.conll.org",
+    "status": "upcoming",
+    "stage": "System submit",
+    "source": "Shared-task demo",
+    "type": "challenge",
+    "description": "Shared task demo。"
+  },
+  {
+    "id": "nlp-ddl-4",
+    "title": "WMT 2027 Translation Task",
+    "deadline": "2027-02-12T23:59:59",
+    "dateRange": "2027-02-12",
+    "location": "Online",
+    "isOnline": true,
+    "tags": [
+      "WMT",
+      "MT"
+    ],
+    "url": "https://www.statmt.org/wmt",
+    "status": "upcoming",
+    "stage": "Result upload",
+    "source": "Benchmark demo",
+    "type": "challenge",
+    "description": "机器翻译评测 demo。"
+  }
+]
