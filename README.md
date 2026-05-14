@@ -40,7 +40,9 @@ NLP-DDL 负责 ACL / EMNLP / NAACL / COLING 等 NLP 会议、shared task、leade
 
 | 类别 | 示例 | 当前处理方式 |
 | --- | --- | --- |
-| NLP 会议 | ACL / EMNLP / NAACL / COLING | 维护投稿、rebuttal、camera-ready 节点 |`n| Shared Task | SemEval / WMT / BioNLP 等 | 记录注册、系统提交、论文提交 |`n| Benchmark | RAG / MTEB / LLM 评测 | 后续接入榜单变更与截止日 |
+| NLP 会议 | ACL / EMNLP / NAACL / COLING | 维护投稿、rebuttal、camera-ready 节点 |
+| Shared Task | SemEval / WMT / BioNLP 等 | 记录注册、系统提交、论文提交 |
+| Benchmark | RAG / MTEB / LLM 评测 | 后续接入榜单变更与截止日 |
 
 ## 部署与自动化
 
